@@ -1,0 +1,4 @@
+2 | Get wash | complete |  | 
+4 | Drink Water | complete |  | 
+5 | Sleep Early | complete |  | 
+6 | Learn Python in depth | incomplete |  | 
